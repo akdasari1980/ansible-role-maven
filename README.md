@@ -48,7 +48,7 @@ Example Playbook
   hosts: localhost
   become: true
   roles:
-    - maven
+    - siavashoutadi.maven
 ```
 
 License
